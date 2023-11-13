@@ -1,0 +1,46 @@
+{
+  "costumers": [
+    {
+      "id": 1,
+      "name": "Pedro Gabi Yanez",
+      "email": "pedrogfyanez@gmail.com",
+      "number": "11973777604",
+      "address": "Rua Manoel dias do Campo,40"
+    },
+    {
+      "id": 5,
+      "name": "Paulo Figueiredo Filho",
+      "email": "paulo@gmail.com",
+      "number": "0132321345",
+      "address": "rua alguma coaisa , 300"
+    },
+    {
+      "id": 6,
+      "name": "José Alberto ",
+      "email": "jose@email.com",
+      "number": "0231549821",
+      "address": "Rua alguma coisa, 200"
+    },
+    {
+      "id": 8,
+      "name": "Teste de Adição",
+      "email": "email@email.com",
+      "number": "132156564",
+      "address": "rua alguma coisa 333"
+    },
+    {
+      "id": 9,
+      "name": "Maria Madalena",
+      "email": "maria@email.com",
+      "number": "1234564",
+      "address": "ragrga"
+    },
+    {
+      "name": "ogoarjolmglrag",
+      "email": "rgargar",
+      "number": "1231654",
+      "address": "gargar",
+      "id": 10
+    }
+  ]
+}
